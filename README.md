@@ -1,28 +1,17 @@
 # random-name
 
-return random last names.
+Lists of names.
+This repo was forked from a randomizer, but I just have the lists here.
 
-``` js
-  var random = require('random-name')
-  console.log(random())
+## Attributions
 
-  //provides first, middle, and last names.
+Forked from [github.com/dominictarr/random-name](https://github.com/dominictarr/random-name).
+Used under the terms of the MIT license.
 
-  console.log(random.first())
-  console.log(random.middle())
-  console.log(random.last())
-
-  //also, random place name!
-  console.log(random.place())
-  
-```
-
-need a list of first names, someone make a pull request.
-
-Taken from the [Moby Word List by Gary Ward](http://www.gutenberg.org/ebooks/3201)
-
-TODO: generate new names with markov chains.
+> Taken from the [Moby Word List by Gary Ward](http://www.gutenberg.org/ebooks/3201)
 
 ## License
 
-MIT
+This is pseudo--public domain;
+use and contribute as you see fit.
+Available freely to all under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
