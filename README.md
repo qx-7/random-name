@@ -5,10 +5,15 @@ This repo was forked from a randomizer, but I just have the lists here.
 
 ## Attributions
 
-Forked from [github.com/dominictarr/random-name](https://github.com/dominictarr/random-name).
-Used under the terms of the MIT license.
+Lists from the [Moby Word Lists by Grady Ward](http://www.gutenberg.org/ebooks/3201):
 
-> Taken from the [Moby Word List by Gary Ward](http://www.gutenberg.org/ebooks/3201)
+- `crosswords`
+- `frequent-1000-words`
+- `names`
+- `names-frequent-female`
+- `names-frequent-male`
+- `places`
+- `single-words`
 
 ## License
 
